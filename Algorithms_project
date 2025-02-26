@@ -1,0 +1,6 @@
+mkdir Algorithms_project
+git mv main.py project_files/
+git mv professor_algos.py project_files/
+git mv SortingAlgorithms.mp4 project_files/
+git commit -m "Organized project files into a folder"
+git push origin main
