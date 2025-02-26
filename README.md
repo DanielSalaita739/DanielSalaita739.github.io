@@ -1,2 +1,21 @@
-# DanielSalaita739.github.io
-A collection of projects showcasing my work in programming, algorithms, and software development. This repository includes various coding projects, experiments, and learning exercises across different domains such as game development, data structures, algorithms, and more.
+# Projects Portfolio
+
+Welcome to my Projects Portfolio! This repository contains a variety of coding projects that I have worked on, covering topics such as:
+
+- **Sorting Algorithm Visualizer** – A Pygame-based interactive visualization of sorting techniques.
+
+## Sorting Algorithm Visualizer
+A Python-based sorting algorithm visualization tool using Pygame. It includes implementations of:
+- Bubble Sort
+- Merge Sort
+- Quick Sort
+- Radix Sort
+- Linear Search
+
+
+## More Projects Coming Soon!
+Stay tuned for more projects as I continue learning and building.
+
+---
+
+Feel free to explore, contribute, or provide feedback!
