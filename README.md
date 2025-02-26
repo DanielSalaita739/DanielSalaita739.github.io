@@ -12,16 +12,16 @@ A Python-based sorting algorithm visualization tool using Pygame. It includes im
 - Radix Sort
 - Linear Search
 
-## Project Files
-Here are the main files in this repository:
+## 📂 Project Files  
 
-📂 **Main Scripts**
-- [`main.py`](https://github.com/DanielSalaita739/DanielSalaita739.github.io/blob/main/main.py) - The main script running the visualizer.
-- [`professor_algos.py`](https://github.com/DanielSalaita739/DanielSalaita739.github.io/blob/main/professor_algos.py) - Sorting algorithm implementations.
+All project-related files are now inside the `Algorithms Project` folder for better organization.  
 
-📂 **Demo**
-- [`SortingAlgorithms.mp4`](https://github.com/DanielSalaita739/DanielSalaita739.github.io/blob/main/SortingAlgorithms.mp4) - Demo video of the project.
+### **📜 Main Scripts**  
+- [`main.py`](https://github.com/DanielSalaita739/DanielSalaita739.github.io/blob/main/Algorithms%20Project/main.py) – The main script running the visualizer.  
+- [`professor_algos.py`](https://github.com/DanielSalaita739/DanielSalaita739.github.io/blob/main/Algorithms%20Project/professor_algos.py) – Sorting algorithm implementations.  
 
+### **📺 Demo Video**  
+- [`SortingAlgorithms.mp4`](https://github.com/DanielSalaita739/DanielSalaita739.github.io/blob/main/Algorithms%20Project/SortingAlgorithms.mp4) – A demonstration of the project in action. 
 
 ## More Projects Coming Soon!
 Stay tuned for more projects as I continue learning and building.
